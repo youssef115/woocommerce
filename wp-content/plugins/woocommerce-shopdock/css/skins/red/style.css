@@ -1,0 +1,19 @@
+/*  
+Skin Name: Red
+Version: 1.0
+Description: Skin for ShopDock
+*/
+
+#addon-shopdock {
+	color: #fbf8ce;
+	background-color: #e8311f;
+	border-color: #9d1d14;
+}
+#addon-shopdock .jcarousel-prev:before {
+    border-bottom-color: #fbf8ce;
+    border-left-color: #fbf8ce;	
+}
+#addon-shopdock .jcarousel-next:before {
+    border-top-color: #fbf8ce;
+    border-right-color: #fbf8ce;
+}
